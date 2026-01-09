@@ -1,5 +1,4 @@
 baseURL = 'https://hopesfill.com/'
 languageCode = 'zh-cn'
-title = 'johns daily does'
+title = "john's daily does"
 theme = 'PaperMod'
-
