@@ -1,0 +1,4 @@
+baseURL = 'https://hopesfill.github.io/'
+languageCode = 'zh-cn'
+title = 'johns daily does'
+theme = 'PaperMod'
