@@ -2,3 +2,6 @@ baseURL = 'https://hopesfill.com/'
 languageCode = 'zh-cn'
 title = "john's daily does"
 theme = 'PaperMod'
+
+[params.assets]
+        favicon = "/favicon.ico"
