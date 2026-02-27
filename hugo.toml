@@ -3,6 +3,11 @@ languageCode = 'zh-cn'
 title = "john's daily does"
 theme = 'PaperMod'
 
+author = "hopesfill"
+
+[params]
+  author = "hopesfill"
+
 [params.assets]
     favicon = "/favicon.ico"
     favicon16x16 = "/favicon-16x16.png"
